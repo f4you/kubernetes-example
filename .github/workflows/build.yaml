@@ -7,7 +7,7 @@ on:
 
 env:
   DOCKERHUB_USERNAME: 407907172@qq.com
-  DOCKERURL: registry.cn-hangzhou.aliyuncs.com
+  DOCKERURL: registry.cn-hangzhou.aliyuncs.com/xglimage
 
 jobs:
   docker:
