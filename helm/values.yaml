@@ -1,10 +1,10 @@
 frontend:
-  image: lyzhang1999/frontend
+  image: docker.m.daocloud.io/lyzhang1999/frontend
   tag: '1276e23'
   autoscaling:
     averageUtilization: 90
 backend:
-  image: lyzhang1999/backend
+  image: docker.m.daocloud.io/lyzhang1999/backend
   tag: '1276e23'
   autoscaling:
     averageUtilization: 90
